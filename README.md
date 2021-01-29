@@ -7,5 +7,5 @@ Published trial protocol paper:  https://trialsjournal.biomedcentral.com/article
 
 Contents
 
-For manuals for the Care Management and Skills Training interventions tested in the Suicide Prevention outreach trial, download and extract files from InterventionManuals zip file.
+For manuals for the Care Management and Skills Training interventions tested in the Suicide Prevention outreach trial, download and extract files from SPOT Intervention Manuals zip file.
 
